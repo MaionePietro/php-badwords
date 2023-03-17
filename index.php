@@ -3,3 +3,4 @@
   <input type="text" name="privacy" placeholder="Oscuramento">
   <button type="submit">Invia</button>
 </form>
+<progress>
